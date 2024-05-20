@@ -9,7 +9,7 @@ public class Mermi : MonoBehaviour
     public float speed = 20f;
     public Rigidbody rb;
     public int damage = 10;
-
+    private float destroyMermiAfter = 5f;
     void Start()
     {
         rb.velocity = transform.right * speed;
@@ -21,7 +21,21 @@ public class Mermi : MonoBehaviour
         if (enemy != null)
         {
             enemy.TakeDamage(damage);
-            new WaitForSeconds(5f)
+
         }
+    }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Zemin"))
+        {
+            StartCoroutine(DestroyBulletAfterDelay());
+        }
+    }
+
+    IEnumerator DestroyBulletAfterDelay()
+    {
+        yield return new WaitForSeconds(destroyMermiAfter);
+        Destroy(gameObject);
     }
 }
