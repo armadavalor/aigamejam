@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bebb7a0f2995add4b8e86acefd42f327
+timeCreated: 1542848293
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131776
+  packageName: ReTime
+  packageVersion: 1.5
+  assetPath: Assets/ReTime/Demos/Particles/MUST READ.txt
+  uploadId: 360038

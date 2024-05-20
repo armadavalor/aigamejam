@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2ac35c7e4edc36458e66dd30341a656
+timeCreated: 1540861178
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131776
+  packageName: ReTime
+  packageVersion: 1.5
+  assetPath: Assets/ReTime/Demos/Character Demo/textures/zombie.mat
+  uploadId: 360038

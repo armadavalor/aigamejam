@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a66d64962dad7b441b895147b3616981
+timeCreated: 1485013124
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87878
+  packageName: Sci-Fi Gun Heavy
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Gun Heavy/_prefabs/GunHeavy/SciFiGunHeavyWhite.prefab
+  uploadId: 173809

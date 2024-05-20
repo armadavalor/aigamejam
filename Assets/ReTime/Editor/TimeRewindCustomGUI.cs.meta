@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 467656a8ef24eb14aac345e848bbe21c
+timeCreated: 1539704458
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131776
+  packageName: ReTime
+  packageVersion: 1.5
+  assetPath: Assets/ReTime/Editor/TimeRewindCustomGUI.cs
+  uploadId: 360038

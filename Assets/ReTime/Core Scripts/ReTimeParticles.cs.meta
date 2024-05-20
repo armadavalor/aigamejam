@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 926134448401b7042b4db4b0e4f8f8df
+timeCreated: 1542751632
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131776
+  packageName: ReTime
+  packageVersion: 1.5
+  assetPath: Assets/ReTime/Core Scripts/ReTimeParticles.cs
+  uploadId: 360038

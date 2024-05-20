@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4687dbac65c37124e833c08251864ba7
+timeCreated: 1485013122
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87878
+  packageName: Sci-Fi Gun Heavy
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Gun Heavy/_prefabs/GunHeavy/SciFiGunHeavyRad.prefab
+  uploadId: 173809

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 948767c753323f14a8206447fbafc5b8
+timeCreated: 1540167751
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131776
+  packageName: ReTime
+  packageVersion: 1.5
+  assetPath: Assets/ReTime/Demos/Individual Objects/Individual Objects.unity
+  uploadId: 360038
